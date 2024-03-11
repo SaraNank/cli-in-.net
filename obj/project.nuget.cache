@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rSdx30De8n2R+2AOe9bMP0nvw8Y2RzSCTXkExdKowiHpSbH6XpdTfrPRDH2lg2etJhLVQe+tMI4ZozPyMO7urQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\This_user\\Desktop\\הנדסת תוכנה\\פרקטיקוד\\mycli\\mycli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\This_user\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
